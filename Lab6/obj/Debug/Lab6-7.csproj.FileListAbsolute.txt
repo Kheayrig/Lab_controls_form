@@ -1,0 +1,13 @@
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\bin\Debug\Lab5-6.exe.config
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\bin\Debug\Lab5-6.exe
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\bin\Debug\Lab5-6.pdb
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab6-7.csproj.AssemblyReference.cache
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab5_6.Properties.Resources.resources
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab6-7.csproj.GenerateResource.cache
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab6-7.csproj.CoreCompileInputs.cache
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab5-6.exe
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab5-6.pdb
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab5_6.AddControlForm.resources
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\bin\Debug\ControlsClass.dll
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\bin\Debug\ControlsClass.pdb
+C:\Users\kheay\source\repos\Lab5-6\Lab5-6\obj\Debug\Lab5_6.MainForm.resources

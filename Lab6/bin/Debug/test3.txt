@@ -1,0 +1,12 @@
+button,button comment,white,-,-,graphical
+RaDioBuTTon,-,BlaCk,arial black,yes,-,yes
+Label,-,red,times NEW roman,no,Your advertisment can be here!,1
+textbox,-,Blue,calibri,-,2
+button,-,black,-,-,graphical
+RaDioBuTTon,-,red,arial,yes,-,no
+Label,-,red,times NEW roman,no,Your advertisment can be here!,2
+textbox,-,Blue,arial black,-,1
+button,-,blue,-,-,-
+RaDioBuTTon,-,red,arial,no,-,yes
+Label,-,red,times NEW roman,no,Your advertisment can be here!,0
+textbox,-,Blue,arial black,-,3

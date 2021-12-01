@@ -1,0 +1,45 @@
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+
+System.IndexOutOfRangeException
+Индекс находился вне границ массива.
+   в Lab_6_7.MainForm.GetFromFile(ControlsOfProgram& controls, String fileName) в C:\Users\kheay\source\repos\Lab5-6\Lab5-6\Forms\MainForm.cs:строка 83
+GetFromFile
+

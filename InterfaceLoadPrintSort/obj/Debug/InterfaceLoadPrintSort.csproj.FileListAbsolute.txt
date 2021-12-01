@@ -1,0 +1,6 @@
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\bin\Debug\InterfaceLoadPrintSort.dll
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\bin\Debug\InterfaceLoadPrintSort.pdb
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\obj\Debug\InterfaceLoadPrintSort.csproj.CoreCompileInputs.cache
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\obj\Debug\InterfaceLoadPrintSort.dll
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\obj\Debug\InterfaceLoadPrintSort.pdb
+C:\Users\kheay\source\repos\Lab6\InterfaceLoadPrintSort\obj\Debug\InterfaceLoadPrintSort.csproj.AssemblyReference.cache
