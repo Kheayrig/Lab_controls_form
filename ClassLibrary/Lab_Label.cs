@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
+    [Serializable]
     public class Lab_Label : Lab_Control
     {
         /// <summary>
@@ -46,6 +47,11 @@ namespace ClassLibrary
         /// <param name="Border">Sets true if border is enabled</param>
         /// <param name="text">text</param>
         /// <param name="alignment">Alignment: where 0 - left, 1 - right, 2 - center</param>
+        public Lab_Label()
+        {
+            Alignment = 0;
+            Text = "";
+        }
         public Lab_Label(string comment = "", ControlColor color = ControlColor.white, string font = "segoe ui", bool Border = true, string text = "", int alignment = 0) : base(comment, color, font, Border)
         {
             Text = text;

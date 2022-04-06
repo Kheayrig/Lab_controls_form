@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
+    [Serializable]
     public class Lab_RadioButton : Lab_Button
     {
         //Field data
@@ -25,6 +26,10 @@ namespace ClassLibrary
         /// <param name="Border">Sets true if border is enabled</param>
         /// <param name="style">Style of the button: graphical or Standard</param>
         /// <param name="Tab_stop">true if you can use 'TAB' key to give the focus to this control</param>
+        public Lab_RadioButton()
+        {
+            Tab_stop = false;
+        }
         public Lab_RadioButton(string comment = "", ControlColor color = ControlColor.white, string font = "segoe ui", bool Border = true, ButtonStyle style = ButtonStyle.Standard, bool Tab_stop = false) : base(comment, color, font, Border, style)
         {
             this.Tab_stop = Tab_stop;

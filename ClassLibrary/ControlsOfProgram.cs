@@ -5,11 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using InterfaceLoadPrintSort;
 
 namespace ClassLibrary
 {
-    public class ControlsOfProgram : IEnumerable, ILoadPrintSort
+    [Serializable]
+    public class ControlsOfProgram : IEnumerable
     {
         List<Lab_Control> controls;
         public ControlsOfProgram()
@@ -34,6 +34,10 @@ namespace ClassLibrary
         public void Add(Lab_Control obj)
         {
             controls.Add(obj);
+        }
+        public void Add(object obj)
+        {
+            controls.Add((Lab_Control)obj);
         }
         public void Clear()
         {
@@ -131,7 +135,7 @@ namespace ClassLibrary
             return str;
         }
 
-        public void Load(string fileName)
+        public void AddFromFile(string fileName)
         {
             using (var file = new StreamReader(fileName))
             {
@@ -213,11 +217,11 @@ namespace ClassLibrary
                 }
             }
         }
-        public void SortByName()
+        public void SortByString()
         {
             controls.Sort(new ControlTypeColorComparer());
         }
-        public void SortByValue()
+        public void SortByInt()
         {
             controls.Sort();
         }

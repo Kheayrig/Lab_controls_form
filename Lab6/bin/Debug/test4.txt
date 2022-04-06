@@ -1,4 +1,0 @@
-button,button comment,white,-,-,graphical&
-RaDioBuTTon,-,BlaCk,arial black,yes,-,yes
-Label,-,red,times NEW roman,no,Your advertisment can be here!,1
-textbox,-,Blue,calibri,-,4

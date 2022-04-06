@@ -11,6 +11,7 @@ namespace ClassLibrary
         Standard = 0,
         Graphical = 1
     }
+    [Serializable]
     public class Lab_Button : Lab_Control
     {
         /// <summary>
@@ -32,7 +33,10 @@ namespace ClassLibrary
         /// <param name="font">Available fonts: Segoe UI, Arial, Arial Black, Times New Roman</param>
         /// <param name="Border">Sets true if border is enabled</param>
         /// <param name="style">Style of the button: graphical or Standard</param>
-
+        public Lab_Button()
+        {
+            Style = ButtonStyle.Standard;
+        }
         public Lab_Button(string comment = "", ControlColor color = ControlColor.white, string font = "segoe ui", bool Border = true, ButtonStyle style = ButtonStyle.Standard) : base(comment, color, font, Border)
         {
             Style = style;

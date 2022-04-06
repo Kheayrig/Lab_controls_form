@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
+    [Serializable]
     public class Lab_TextBox : Lab_Control
     {
         /// <summary>
@@ -36,6 +37,10 @@ namespace ClassLibrary
         /// <param name="font">Available fonts: Segoe UI, Arial, Arial Black, Times New Roman</param>
         /// <param name="Border">Sets true if border is enabled</param>
         /// <param name="scroll_bar">0 - None, 1 - Horizontal, 2 - Vertical, 3 - Both</param>
+        public Lab_TextBox()
+        {
+            Scroll_bar = 0;
+        }
         public Lab_TextBox(string comment = "", ControlColor color = ControlColor.white, string font = "segoe ui", bool Border = true, int scroll_bar = 0) : base(comment, color, font, Border)
         {
             Scroll_bar = scroll_bar;

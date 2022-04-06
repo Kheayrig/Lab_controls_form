@@ -14,6 +14,7 @@ namespace ClassLibrary
         green,
         red
     }
+    [Serializable]
     public abstract class Lab_Control : IComparable<Lab_Control>
     {
         List<string> fonts = new List<string> { "arial", "arial black", "calibri", "times new roman", "segoe ui" };
@@ -40,6 +41,13 @@ namespace ClassLibrary
         /// <param name="color">Available colors: white,black,red,blue</param>
         /// <param name="font">Available fonts: Segoe UI, Arial, Arial Black, Times New Roman</param>
         /// <param name="Border">Sets true if border is enabled</param>
+        public Lab_Control()
+        {
+            Comment = "";
+            Color = ControlColor.white;
+            Font = "segoe ui";
+            Border = true;
+        }
         public Lab_Control(string comment = "", ControlColor color = ControlColor.white, string font = "segoe ui", bool Border = true)
         {
             Comment = comment;
